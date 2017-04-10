@@ -20,4 +20,8 @@ public class AddTest {
     public func add() -> Int {
         return first + second
     }
+    
+    public func subtract() -> Int {
+        return first - second
+    }
 }
